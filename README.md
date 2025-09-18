@@ -1,2 +1,2 @@
-# DataWrangling
-CAP3321
+# MyRepository
+CAP3321: Data Wrangling
